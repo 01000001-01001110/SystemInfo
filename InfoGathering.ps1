@@ -2,8 +2,8 @@
 Title: Local Computer System Information
 By: Alan Newingham
 Date: 11/29/2020
-Git: 
-Notes: 
+Git: https://github.com/01000001-01001110/SystemInfo
+Notes: https://automateanddeploy.com/index.php/2020/12/01/gathering-local-system-information/ 
 #>
 $title = "Black"
 $background = "White"
